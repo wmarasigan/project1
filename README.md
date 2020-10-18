@@ -1,1 +1,1 @@
-# project1 - This project resides the famous whatnot project.
+# project1 - This project resides the famous whatnot projects
