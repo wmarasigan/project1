@@ -1,1 +1,1 @@
-# project1
+# project1 - This project resides the famous whatnot project.
